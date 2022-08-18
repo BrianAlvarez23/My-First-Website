@@ -1,0 +1,39 @@
+h1 {
+  margin-left: 20px;
+}
+
+.ptpt {
+  margin-left: 10px;
+  margin-right: 1500px;
+}
+
+p {
+    margin: 35px;
+  }
+  .mt-0 {
+    margin-top: 5 !important;
+  }
+
+  .header {
+    background-color: #477bff;
+    color: #fff;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+  body {
+  background-color: #123456;
+  color: #ffffff;
+}
+
+a{
+  color: red;
+}
+
+button {
+  margin: 35px;
+}
+.mt-0 {
+  margin-top: 5 !important;
+}
